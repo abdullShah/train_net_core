@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/ConsoleApp1/.vs
+/ConsoleApp1/ConsoleApp1/obj
+/ConsoleApp2/.vs/ConsoleApp2
+/ConsoleApp2/ConsoleApp2/bin/Debug
+/ConsoleApp2/ConsoleApp2/obj/Debug
